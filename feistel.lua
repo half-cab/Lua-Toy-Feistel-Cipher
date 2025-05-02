@@ -1,7 +1,7 @@
 --[[
-Feistel Cipher in Lua
+Toy-Feistel-Cipher-in-Lua
 MIT License (c) 2025 Cleary Bettisworth
-https://github.com/half-cab/Lua-Feistel-Cipher
+https://github.com/half-cab/Toy-Feistel-Cipher-in-Lua
 ]]
 
 -- feistel.lua
